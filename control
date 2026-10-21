@@ -1,0 +1,9 @@
+Package: com.main.kiyu4776.faseid.autohome
+Name: FaceIDAutoHome
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: kiyu4776
+Author: kiyu4776
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
